@@ -1,72 +1,78 @@
-<h1 align="center">🚀 Top 150 DSA Interview Questions in C++</h1>
+# 🚀 DSA 150+ Problem Set – Topic-wise Structured
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/keshavk1/DSA?color=blue&style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/keshavk1/DSA?style=for-the-badge&color=green">
-  <img src="https://img.shields.io/github/languages/count/keshavk1/DSA?style=for-the-badge&color=orange">
-</p>
+Welcome to my personal repository of the most important **DSA problems** for coding interviews and placements, organized **topic-wise** for focused learning.
+
+> _“Striving to master DSA, one problem at a time.”_
 
 ---
 
-### 🧠 About This Repository
+## 📚 Structure Overview
 
-This repository contains solutions to the most popular and frequently asked **150+ DSA problems** in interviews from top tech companies like:
+All problems are organized in folders like:
 
-<div align="center">
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
-</div>
 
----
-
-### 📁 Topics Covered
-
-| Category             | 📂 Folder             | ✅ Count |
-|----------------------|-----------------------|----------|
-| Arrays               | `/Arrays`             | 20       |
-| Strings              | `/Strings`            | 15       |
-| Linked List          | `/LinkedList`         | 15       |
-| Stack & Queue        | `/Stack_Queue`        | 15       |
-| Trees & Binary Trees | `/Trees`              | 20       |
-| Graphs               | `/Graphs`             | 15       |
-| Dynamic Programming  | `/DynamicProgramming` | 20       |
-| Others (Bit, Greedy) | `/Misc`               | 30       |
+Each `.cpp` file contains:
+- 🚀 Problem link
+- 📌 Short approach
+- ✅ Optimized C++ solution
 
 ---
 
-### ⚙️ Language Used
+## ✅ Progress Tracker (Coming Soon)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+You can check off problems as you solve them:
 
----
-
-### 💼 Problem Sources
-
-- 📘 [Striver's A2Z Sheet](https://takeuforward.org/)
-- 📗 [Love Babbar 450 Sheet](https://450dsa.com/)
-- 📙 [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
-- 🧠 Personal Competitive Practice
 
 ---
 
-### 🌟 My Goal
+## 🧠 Topics Covered
 
-To help peers and beginners prepare for interviews efficiently by organizing top-level questions with **clean, optimized, and well-commented C++ code**.
+| No. | Topic                         | Folder |
+|-----|-------------------------------|--------|
+| 01  | Arrays                        | [01_Arrays](./01_Arrays) |
+| 02  | Strings                       | [02_Strings](./02_Strings) |
+| 03  | Math & Bit Manipulation       | [03_Math_BitManipulation](./03_Math_BitManipulation) |
+| 04  | Hashing                       | [04_Hashing](./04_Hashing) |
+| 05  | Sliding Window / Two Pointers| [05_SlidingWindow_TwoPointers](./05_SlidingWindow_TwoPointers) |
+| 06  | Linked List                   | [06_LinkedList](./06_LinkedList) |
+| 07  | Stack & Queue                 | [07_Stack_Queue](./07_Stack_Queue) |
+| 08  | Binary Search                 | [08_BinarySearch](./08_BinarySearch) |
+| 09  | Recursion & Backtracking      | [09_Recursion_Backtracking](./09_Recursion_Backtracking) |
+| 10  | Trees                         | [10_Trees](./10_Trees) |
+| 11  | Binary Search Trees (BST)     | [11_BST](./11_BST) |
+| 12  | Heaps                         | [12_Heaps](./12_Heaps) |
+| 13  | Graphs                        | [13_Graphs](./13_Graphs) |
+| 14  | Dynamic Programming           | [14_DynamicProgramming](./14_DynamicProgramming) |
+| 15  | Greedy                        | [15_Greedy](./15_Greedy) |
+| 16  | Trie                          | [16_Trie](./16_Trie) |
+| 17  | Segment Trees                 | [17_SegmentTree](./17_SegmentTree) |
+| 18  | Advanced Topics               | [18_AdvancedTopics](./18_AdvancedTopics) |
 
 ---
 
-### 🤝 Connect With Me
+## ✨ How to Use
 
-<p align="left">
-  <a href="https://github.com/keshavk1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:rskgm2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/keshav-meena-b25812325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+1. Browse folders topic-wise.
+2. Solve problems one by one.
+3. Replace comments with your logic.
+4. Mark progress with checkboxes.
+5. Push your solutions regularly!
+
+---
+
+## 🧑‍💻 Author
+
+Made with 💙 by [Keshav Meena](https://github.com/keshavk1)  
+Feel free to star ⭐ and share if you found it helpful!
 
 ---
 
-> 🌱 “Consistency always beats talent. Even the top 1% started from 0. Keep solving, keep learning.”
+## 🔗 Coming Soon
+
+- 🔄 Auto progress tracker
+- 📌 LeetCode links with tags
+- 🌐 Project-based learning DSA
 
 ---
+
+Stay consistent, and you'll win the game. All the best! 🚀
