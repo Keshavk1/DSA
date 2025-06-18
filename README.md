@@ -70,12 +70,3 @@ To help peers and beginners prepare for interviews efficiently by organizing top
 > 🌱 “Consistency always beats talent. Even the top 1% started from 0. Keep solving, keep learning.”
 
 ---
-
-## 🏁 Want Folder Structure and File Naming Templates?
-
-If yes, I’ll send a zip of:
-- Folders like `/Arrays`, `/Graphs`, etc.
-- Inside each: `01_ProblemName.cpp`, `02_AnotherProblem.cpp`
-- With starter C++ template and comment headers
-
-Let me know — and I’ll generate and zip it for you!
