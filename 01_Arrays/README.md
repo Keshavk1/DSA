@@ -76,3 +76,6 @@ int main() {
     }
     return 0;
 }
+## 📁 Folder Structure (if applicable)
+
+```bash

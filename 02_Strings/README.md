@@ -77,3 +77,13 @@ int main() {
 
     return 0;
 }
+## 📁 Folder Structure (if applicable)
+
+```bash
+ strings/
+├── reverse_string.cpp
+├── longest_palindrome.cpp
+├── anagram_check.cpp
+├── pattern_matching_kmp.cpp
+├── minimum_window_substring.cpp
+└── README.md
